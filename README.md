@@ -6,7 +6,7 @@
 
 
   #### FRONTEND stacks and frameworks:
-  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Icon"> |
+
 <!--
 **mateusDMRamos/mateusDMRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
