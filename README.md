@@ -10,6 +10,7 @@
     <tbody>
       <tr>
         <td>
+          <p>React</p>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Icon" height= 32px/>
         </td>
       </tr>
