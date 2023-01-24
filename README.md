@@ -6,6 +6,15 @@
 
 
   #### FRONTEND stacks and frameworks:
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Icon" height= 32px/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
   
 <!--
 **mateusDMRamos/mateusDMRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
