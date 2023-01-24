@@ -3,6 +3,10 @@
   - I'm a fullstacker web developer, currently studying backend stacks at Trybe;
   - After completing my degree in mechatronics engineering, I worked as sales analyst;
   - In career transition;
+
+
+  #### FRONTEND stacks and frameworks:
+  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Icon"> |
 <!--
 **mateusDMRamos/mateusDMRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
