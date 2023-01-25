@@ -46,3 +46,6 @@
       </tr>
     </tbody>
   </table>
+  ### Contact me:
+    - e-mail: mateusdmramos@gmail.com
+    - linkedin: https://www.linkedin.com/in/mateusdmramos/
