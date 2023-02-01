@@ -5,9 +5,9 @@
   - In career transition;
 
 ### Contacts:
-
   - e-mail: mateusdmramos@gmail.com
-  - linkedin: https://www.linkedin.com/in/mateusdmramos/
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marciodanielll](https://www.linkedin.com/in/mateusdmramos/))  
+
   -----
   #### FRONTEND stacks and frameworks:
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
