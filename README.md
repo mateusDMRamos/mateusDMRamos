@@ -4,8 +4,13 @@
   - After completing my degree in mechatronics engineering, I worked as sales analyst;
   - In career transition;
 
+### Contacts:
 
+  - e-mail: mateusdmramos@gmail.com
+  - linkedin: https://www.linkedin.com/in/mateusdmramos/
+  -----
   #### FRONTEND stacks and frameworks:
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   <table>
     <tbody>
       <tr>
@@ -47,7 +52,4 @@
     </tbody>
   </table>
   
-### Contacts:
 
-  - e-mail: mateusdmramos@gmail.com
-  - linkedin: https://www.linkedin.com/in/mateusdmramos/
