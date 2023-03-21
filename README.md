@@ -1,6 +1,6 @@
 ### Hi there 👋! Welcome to my github page!
 
-  - I'm a fullstacker web developer, currently studying back-end stacks at Trybe;
+  - I'm a fullstack web developer, currently studying back-end stacks at Trybe;
   - After completing my degree in mechatronics engineering, I worked as sales analyst and had my first contact with web dev;
   - In career transition;
 
